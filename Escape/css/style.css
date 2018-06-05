@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+ background-size: cover;
+    min-height: 652px;
+}
+
+#content {
+}
+
+#skill {
+    margin-left: 234px;
+    margin-top: 20px;
+}
+
+#clint {margin-left: 234px;
+    margin-top: 20px;
+}
+
+#our_team {
+    background-color: black;
+    margin-left: px;
+    margin-top: 30px;
+}
+
+#form {
+    background-color: #7690C5
+}
+
+.container {
+    width: 90%;
+    
+}
+
+.row {
+}
+
+.col-sm-12 {
+}
+
+.col-sm-4 {
+}
+
+.logo {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.img-responsive {
+}
+
+.col-sm-8 {
+}
+
+.navbar {
+
+margin-left: 180px;
+}.navbar ul li a{
+    color: azure;
+    font-weight: 600;
+    font-size: 20px;
+}
+.navbar ul li a:hover{
+color: black;
+    transition-delay: 2sec;
+}
+.navbar-brand {
+}
+
+.nav.navbar-nav {
+}
+.love_antara{
+margin-left: 275px;
+}
+
+.love_tania{
+    margin-top: 20px;
+    
+}
+.social-iamge1{
+    margin-right: 10px
+}
+.hell{ 
+padding-left: 50px;}
+.active {
+}
+
+.text1{
+        margin-left: 309px;
+    margin-top: 100px;
+}
+
+.text2 {    margin-left: 227px;
+    margin-top: 65px;
+}
+
+.button {  margin-top: 65px; }
+
+.col-sm-9 {
+}
+
+.tilte {    padding: 20px 243px;
+    margin: 10px 0px;
+}
+
+.discription {    padding: 0px 248px;
+    margin: 10px 0px;
+}
+
+.col-sm-3 {
+}
+
+.icon1 { margin-top: 20px
+}
+
+.col-sm-6 {
+}
+
+.col-sm-2 {
+}
+
+.icon_pic {
+}
+
+.skill_title {
+}
+
+.skill_description {    
+    margin-top: 15px;
+    margin-bottom: 19px;
+}
+
+.clint_title {
+}
+
+.clint_text {
+}
+
+.clint_img {
+}
+
+.team_title {
+    margin-left: 249px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.team_subtitle {   margin-left: 249px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.team_img {
+}
+
+.form_title {
+}
+
+.form_subtitle {
+}
+
+.social_image {
+}
+
+.form_image {
+}
+.team_text{
+    margin-left: 249px;
+    margin-top: 20px;
+}
+.team_text p{
+    font-weight: 500;
+    color: aliceblue
+        ;
+    
+}
+.copiright {
+}
+.fuck{
+    margin-left: 280px
+        ;
+    margin-top: 20px;
+    
+}
